@@ -1,9 +1,0 @@
-timestamp,user_id,metric_type,value
-2025-11-11T10:30:00,demo-user-001,activation,1
-2025-11-11T10:31:15,demo-user-001,engagement,1
-2025-11-11T10:35:22,demo-user-001,satisfaction,5
-2025-11-11T11:15:45,demo-user-002,activation,1
-2025-11-11T11:16:30,demo-user-002,engagement,1
-2025-11-11T14:20:10,demo-user-003,activation,1
-2025-11-11T14:21:05,demo-user-003,engagement,1
-2025-11-11T14:25:40,demo-user-003,satisfaction,4
